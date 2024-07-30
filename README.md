@@ -55,7 +55,6 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MohamedELagamy80&show_icons=true&count_private=true&hide_border=true&title_color=f75c7e&icon_color=f75c7e&text_color=c9d1d9&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedELagamy80&theme=radical&hide_border=true&stroke=f75c7e&background=0d1117&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" />
 </div>
 
