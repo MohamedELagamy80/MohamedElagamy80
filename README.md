@@ -42,12 +42,28 @@ I am a passionate Software Engineer specializing in backend development with a s
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+### 1. [Project Name](https://github.com/MohamedELagamy80/project-repo)
+**Description**: A brief description of what the project is about and the problems it solves.
+**Technologies Used**: List the main technologies used in the project.
+
+### 2. [Project Name](https://github.com/MohamedELagamy80/project-repo)
+**Description**: A brief description of what the project is about and the problems it solves.
+**Technologies Used**: List the main technologies used in the project.
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Mohamed Elagamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedELagamy80&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedELagamy80&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedELagamy80&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohamedELagamy80&margin-w=5&margin-h=5&no-frame=true)
 
 ---
 
